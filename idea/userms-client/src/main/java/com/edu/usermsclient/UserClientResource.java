@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import java.util.List;
-
+import org.springframework.cloud.netflix.hystrix.EnableHystrix;
 @RestController
+@EnableHystrix
 public class UserClientResource {
     private static final Logger LOGGER = LoggerFactory.getLogger(UserClientResource.class);
     @Autowired
@@ -22,4 +22,8 @@ public class UserClientResource {
         return restTemplate.getForObject("http://userms/users/" + id, Object.class);
     }
 
+    public Object fallbackMethod() {
+
+        return "Request fails. It takes long time to response";
+    }
 }

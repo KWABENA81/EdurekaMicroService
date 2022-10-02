@@ -1,14 +1,13 @@
-package com.edu.usermsclient;
+package com.edu.userms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@EnableHystrix
-public class UsermsClientApplication {
+public class UsermsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UsermsClientApplication.class, args);
+		SpringApplication.run(UsermsApplication.class, args);
 	}
 
 }
