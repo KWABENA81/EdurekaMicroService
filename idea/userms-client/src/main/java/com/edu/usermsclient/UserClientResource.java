@@ -1,5 +1,7 @@
 package com.edu.usermsclient;
 
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,22 +10,28 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import org.springframework.cloud.netflix.hystrix.EnableHystrix;
+import java.util.Arrays;
+import java.util.List;
+
 @RestController
-@EnableHystrix
 public class UserClientResource {
     private static final Logger LOGGER = LoggerFactory.getLogger(UserClientResource.class);
     @Autowired
     private RestTemplate restTemplate;
 
     @GetMapping("/users-client/{id}")
+    @HystrixCommand(fallbackMethod = "fallbackMethod",
+    commandProperties = {
+            @HystrixProperty(name = "execution.isolation.thread.timeoutInMilliseconds", value = "1000")
+    })
     public Object getUsersFromUserms(@PathVariable String id) {
         LOGGER.info("About to call userms");
         return restTemplate.getForObject("http://userms/users/" + id, Object.class);
     }
 
-    public Object fallbackMethod() {
+    private Object fallbackMethod(String id) {
 
-        return "Request fails. It takes long time to response";
+        return Arrays.asList("A", "B", "C");
     }
+
 }
