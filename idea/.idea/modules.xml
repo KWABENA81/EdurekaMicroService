@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apigateway/apigateway.iml" filepath="$PROJECT_DIR$/apigateway/apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New_folder/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/New_folder/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-1/kafka-consumer-1.iml" filepath="$PROJECT_DIR$/kafka-consumer-1/kafka-consumer-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-2/kafka-consumer-2.iml" filepath="$PROJECT_DIR$/kafka-consumer-2/kafka-consumer-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-producer/kafka-producer.iml" filepath="$PROJECT_DIR$/kafka-producer/kafka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userms/userms.iml" filepath="$PROJECT_DIR$/userms/userms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New_folder/userms-client/userms-client.iml" filepath="$PROJECT_DIR$/New_folder/userms-client/userms-client.iml" />
+    </modules>
+  </component>
+</project>

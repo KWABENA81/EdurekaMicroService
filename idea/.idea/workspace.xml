@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="351d43d2-0453-4c1d-915b-dfadcd99feaa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/config-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/main/java/com/example/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/test/java/com/example/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/src/main/java/com/edu/eurekaserver/EurekaServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/src/test/java/com/edu/eurekaserver/EurekaServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/main/java/com/edu/usermsclient/HttpClientConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/main/java/com/edu/usermsclient/UserClientResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/main/java/com/edu/usermsclient/UsermsClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/test/java/com/edu/usermsclient/UsermsClientApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/java/com/edu/userms/UsermsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/java/com/edu/userms/api/UserResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/java/com/edu/userms/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/java/com/edu/userms/repo/UserRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/resources/import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/test/java/com/edu/userms/UsermsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/edu/eurekaserver/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/edu/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userms/src/main/java/com/edu/userms/UsermsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/userms/src/main/java/com/edu/userms/UsermsApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Fr3cdaTp9a72bWOqo9CfLlExEf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/home/sask/Documents/codes/etrCode",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "5e0d38172e1d7404ee72714937ef5bf6"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+    <configuration name="com.edu.eurekaserver in eureka-server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.eurekaserver" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsermsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="userms (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.userms.UsermsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsermsClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="userms-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.usermsclient.UsermsClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.edu.eurekaserver in eureka-server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="351d43d2-0453-4c1d-915b-dfadcd99feaa" name="Changes" comment="" />
+      <created>1665236456017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665236456017</updated>
+      <workItem from="1665236457554" duration="2005000" />
+      <workItem from="1665246862255" duration="1086000" />
+      <workItem from="1665248023003" duration="885000" />
+      <workItem from="1665251237453" duration="1041000" />
+      <workItem from="1665253868915" duration="56000" />
+      <workItem from="1665254025413" duration="526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
