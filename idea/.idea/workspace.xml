@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="351d43d2-0453-4c1d-915b-dfadcd99feaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/main/java/com/example/configserver/ConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/test/java/com/example/configserver/ConfigServerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/src/main/java/com/edu/eurekaserver/EurekaServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/eureka-server/src/test/java/com/edu/eurekaserver/EurekaServerApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/main/java/com/edu/usermsclient/HttpClientConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/main/java/com/edu/usermsclient/UserClientResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/main/java/com/edu/usermsclient/UsermsClientApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms-client/src/test/java/com/edu/usermsclient/UsermsClientApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/java/com/edu/userms/UsermsApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/java/com/edu/userms/api/UserResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/java/com/edu/userms/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/java/com/edu/userms/repo/UserRepo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/main/resources/import.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_folder/userms/src/test/java/com/edu/userms/UsermsApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/edu/eurekaserver/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/edu/eurekaserver/EurekaServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userms/src/main/java/com/edu/userms/UsermsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/userms/src/main/java/com/edu/userms/UsermsApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="351d43d2-0453-4c1d-915b-dfadcd99feaa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/home/sask/Documents/codes/etrCode",
+    "last_opened_file_path": "/home/sask/Documents/edureka/ms-sessions/idea/apigateway",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -162,6 +117,7 @@
       <workItem from="1665251237453" duration="1041000" />
       <workItem from="1665253868915" duration="56000" />
       <workItem from="1665254025413" duration="526000" />
+      <workItem from="1666092934448" duration="161000" />
     </task>
     <servers />
   </component>
