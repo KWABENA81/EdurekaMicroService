@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/idea/apigateway/apigateway.iml" filepath="$PROJECT_DIR$/idea/apigateway/apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/cloud-gateway/cloud-gateway.iml" filepath="$PROJECT_DIR$/idea/cloud-gateway/cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/config-server/config-server.iml" filepath="$PROJECT_DIR$/idea/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/idea/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/kafka-consumer-1/kafka-consumer-1.iml" filepath="$PROJECT_DIR$/idea/kafka-consumer-1/kafka-consumer-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/kafka-consumer-2/kafka-consumer-2.iml" filepath="$PROJECT_DIR$/idea/kafka-consumer-2/kafka-consumer-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/kafka-producer/kafka-producer.iml" filepath="$PROJECT_DIR$/idea/kafka-producer/kafka-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ms-sessions.iml" filepath="$PROJECT_DIR$/.idea/ms-sessions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/oauth-server/oauth-server.iml" filepath="$PROJECT_DIR$/idea/oauth-server/oauth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/order-service/order-service.iml" filepath="$PROJECT_DIR$/idea/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/idea/payment-service/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/idea/service-registry/service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/userms/userms.iml" filepath="$PROJECT_DIR$/idea/userms/userms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/userms-client/userms-client.iml" filepath="$PROJECT_DIR$/idea/userms-client/userms-client.iml" />
     </modules>
   </component>
 </project>
