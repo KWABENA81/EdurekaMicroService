@@ -29,7 +29,7 @@
       <module name="kafka-consumer-1" target="11" />
       <module name="kafka-consumer-2" target="11" />
       <module name="kafka-producer" target="11" />
-      <module name="oauth-server" target="17" />
+      <module name="oauth-server" target="11" />
       <module name="order-service" target="11" />
       <module name="payment-service" target="11" />
       <module name="service-registry" target="11" />

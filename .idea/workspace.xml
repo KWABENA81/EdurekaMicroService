@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f072ab-6382-4533-bf1e-15a8acda8da3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ms-sessions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ms-sessions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/apigateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/apigateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/kafka-consumer-1/src/main/java/com/edu/kafkaconsumer1/KafkaConsumer1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/idea/kafka-consumer-1/src/main/java/com/edu/kafkaconsumer1/KafkaConsumer1Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/kafka-consumer-2/src/main/java/com/edu/kafkaconsumer2/KafkaConsumer2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/idea/kafka-consumer-2/src/main/java/com/edu/kafkaconsumer2/KafkaConsumer2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/kafka-producer/src/main/java/com/edu/kafkaproducer/KafkaProducerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/idea/kafka-producer/src/main/java/com/edu/kafkaproducer/KafkaProducerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/oauth-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/oauth-server/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/sask/Documents/edureka/ms-sessions/idea/payment-service",
+    "last_opened_file_path": "/home/sask/Documents/edureka/ms-assignments",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -92,6 +87,8 @@
       <workItem from="1666983502839" duration="2969000" />
       <workItem from="1667055872144" duration="76000" />
       <workItem from="1667066937608" duration="5547000" />
+      <workItem from="1667331966181" duration="1692000" />
+      <workItem from="1668787119392" duration="1290000" />
     </task>
     <servers />
   </component>
