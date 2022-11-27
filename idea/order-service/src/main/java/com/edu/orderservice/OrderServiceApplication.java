@@ -10,7 +10,6 @@ import org.springframework.web.client.RestTemplate;
 
 
 @SpringBootApplication
-@ComponentScan
 @EnableEurekaClient
 public class OrderServiceApplication {
 

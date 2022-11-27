@@ -1,4 +1,4 @@
-package com.edu.paymentservice.controller;
+package com.edu.paymentservice.api;
 
 
 import com.edu.paymentservice.service.PaymentService;
@@ -13,16 +13,16 @@ import com.edu.paymentservice.entity.Payment;
 
 @RestController
 @RequestMapping("/payment")
-public class PaymentController 
+public class PaymentResource
 {
 	@Autowired
 	private PaymentService service;
 	
-	@PostMapping("/doPayment")
-	public Payment doPayment(@RequestBody Payment payment)
-	{
-		return service.doPayment(payment);
-	}
+//	@PostMapping("/doPayment")
+//	public Payment doPayment(@RequestBody Payment payment)
+//	{
+//		return service.doPayment(payment);
+//	}
 	
 	@GetMapping("/{orderId}")
 	public Payment findPaymentHistoryByOrderId(int orderId)

@@ -1,6 +1,6 @@
 package com.edu.userms.repo;
 
-import com.edu.userms.model.User;
+import com.edu.userms.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
