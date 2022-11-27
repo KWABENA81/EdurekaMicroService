@@ -15,11 +15,11 @@ public class KafkaProducerApplication {
 	@Autowired
 	private KafkaTemplate<String, String> kafkaTemplate;
 
-	@GetMapping("/messages/{mess}")
-	public String publish(@PathVariable String mess) {
-		System.out.println("message received: " + mess);
-		kafkaTemplate.send("02_Oct_2022", mess);
-		return mess;
+	@GetMapping("/messages/{message}")
+	public String publish(@PathVariable String message) {
+		System.out.println("message received: " + message);
+		kafkaTemplate.send("my-topic_oct291651", message);
+		return message;
 	}
 
 	public static void main(String[] args) {

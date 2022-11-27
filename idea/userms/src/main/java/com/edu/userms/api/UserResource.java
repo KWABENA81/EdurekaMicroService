@@ -1,6 +1,6 @@
 package com.edu.userms.api;
 
-import com.edu.userms.model.User;
+import com.edu.userms.entity.User;
 import com.edu.userms.repo.UserRepo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,6 +14,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
+@RequestMapping("/user")
 public class UserResource {
     private static final Logger LOGGER = LoggerFactory.getLogger(UserResource.class);
     @Autowired
@@ -43,13 +44,6 @@ public class UserResource {
     @PostMapping("/users")
     public ResponseEntity<User> createUser(@RequestBody User user) throws URISyntaxException {
         User userSaved = repo.save(user);
-
         return ResponseEntity.created(new URI(userSaved.getId().toString())).body(userSaved);
     }
-
-
-
-
-
-
 }

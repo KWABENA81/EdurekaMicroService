@@ -7,7 +7,7 @@ spring:
       enabled: true
   
   application:
-    name: ORDER-SERVICE
+    name: order-service
         
 eureka:
   client:

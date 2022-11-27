@@ -41,11 +41,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/home/sask/Documents/edureka/ms-sessions/idea/apigateway/pom.xml",
+    "last_opened_file_path": "/home/sask/Documents/edureka/ms-sessions",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "5e0d38172e1d7404ee72714937ef5bf6"
+    "spring.configuration.checksum": "b85c0c508bc58c535150cf92579aae9c"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -121,6 +121,8 @@
       <workItem from="1665254025413" duration="526000" />
       <workItem from="1666092934448" duration="161000" />
       <workItem from="1666295669366" duration="665000" />
+      <workItem from="1666974654328" duration="394000" />
+      <workItem from="1666975168953" duration="18000" />
     </task>
     <servers />
   </component>

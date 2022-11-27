@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/idea/apigateway/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/kafka-consumer-1/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/kafka-consumer-2/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/kafka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/userms-client/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/userms/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/oauth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/idea/payment-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

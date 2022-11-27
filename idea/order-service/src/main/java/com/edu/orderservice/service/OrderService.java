@@ -34,4 +34,8 @@ public class OrderService {
         return new TransactionResponse();//(order, paymentResponse.getAmount(), paymentResponse.getTransactionId(), response);
         //return TransactionResponse();
     }
+
+    public Order saveOrder(Order order) {
+       return repository.save(order);
+    }
 }

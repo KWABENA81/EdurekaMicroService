@@ -6,7 +6,7 @@ import org.springframework.kafka.annotation.KafkaListener;
 
 @SpringBootApplication
 public class KafkaConsumer2Application {
-	@KafkaListener(topics = "02_Oct_2022", groupId = "a")
+	@KafkaListener(topics = "my-topic_oct291651", groupId = "a")
 	public void consume(String mess) {
 		System.out.println("Consumer-2: " + mess);
 	}
